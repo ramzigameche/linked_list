@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683886454 source:c:\users\asus\desktop\c\masterc\série_tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<malloc.h>
+
